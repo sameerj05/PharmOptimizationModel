@@ -14,6 +14,10 @@
   A Python project for pharmaceutical inventory optimization. Features a Streamlit dashboard for visualizing inventory trends, ARIMA-based demand forecasting, and large-scale data cleaning with Pandas and NumPy.
 </p>
 
+<p align="center">
+  <b>Created at the Rutgers Bits Datathon 2025 and presented to judges at Barclays.</b>
+</p>
+
 ---
 
 ### 🚀 Key Features
@@ -156,19 +160,25 @@ Contributions are welcome! Please open an issue or submit a pull request for imp
 
 ---
 
-### 👤 Author
+### 👥 Contributors
 
 <p align="center">
-  <b>sameerj05</b><br>
+  <b>Mohammed Hossain</b> &nbsp;|&nbsp;
+  <a href="https://github.com/MohammedYashHossain"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-MohammedYashHossain-181717?style=flat-square&logo=github"/></a>
+  <br><br>
+  <b>Sameer Jiandani</b> &nbsp;|&nbsp;
   <a href="https://github.com/sameerj05"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-sameerj05-181717?style=flat-square&logo=github"/></a>
   <br><br>
-  <b>MohammedYashHossain</b><br>
-  <a href="https://github.com/MohammedYashHossain"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-MohammedYashHossain-181717?style=flat-square&logo=github"/></a>
+  <b>Rayyan Khatib</b>
+  <br><br>
+  <b>Yassir Khan</b>
 </p>
 
 ---
 
 <p align="center">
   <i>This project was developed as a demonstration of pharmaceutical inventory optimization using Python, Streamlit, ARIMA, Pandas, and NumPy.<br>
-  Coded by <b>sameerj05</b> and <b>MohammedYashHossain</b> on GitHub.</i>
+  Created at the <b>Rutgers Bits Datathon 2025</b> and presented to judges at <b>Barclays</b>.<br>
+  Contributors: <b>Mohammed Hossain</b>, <b>Sameer Jiandani</b>, <b>Rayyan Khatib</b>, <b>Yassir Khan</b>.
+  </i>
 </p> 
