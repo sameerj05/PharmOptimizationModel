@@ -6,6 +6,8 @@
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img alt="ARIMA" src="https://img.shields.io/badge/ARIMA-F3C623?style=for-the-badge"/>
+  <img alt="License" src="https://img.shields.io/badge/License-Unlicensed-lightgrey?style=for-the-badge"/>
+  <img alt="Repository" src="https://img.shields.io/badge/GitHub-sameerj05-181717?style=for-the-badge&logo=github"/>
 </p>
 
 <p align="center">
@@ -152,18 +154,30 @@ For a detailed explanation of the methodology and results, see [Pharmaceutical I
 
 ---
 
+### 🤝 Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request for improvements or bug fixes.
+
+---
+
 ### 👥 Contributors
 
 <p align="center">
   <b>Mohammed Hossain</b> &nbsp;|&nbsp;
   <a href="https://github.com/MohammedYashHossain"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-MohammedYashHossain-181717?style=flat-square&logo=github"/></a>
+  &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/mohammedyhossain/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-MohammedYashHossain-blue?style=flat-square&logo=linkedin"/></a>
   <br><br>
   <b>Sameer Jiandani</b> &nbsp;|&nbsp;
   <a href="https://github.com/sameerj05"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-sameerj05-181717?style=flat-square&logo=github"/></a>
+  &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/sameerjiandani/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-SameerJiandani-blue?style=flat-square&logo=linkedin"/></a>
   <br><br>
-  <b>Rayyan Khatib</b>
+  <b>Rayyan Khatib</b> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/rayyan-khatib/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-RayyanKhatib-blue?style=flat-square&logo=linkedin"/></a>
   <br><br>
-  <b>Yassir Khan</b>
+  <b>Yassir Khan</b> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/yassirmkhan/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-YassirKhan-blue?style=flat-square&logo=linkedin"/></a>
 </p>
 
 ---
