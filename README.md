@@ -161,10 +161,14 @@ Contributions are welcome! Please open an issue or submit a pull request for imp
 <p align="center">
   <b>sameerj05</b><br>
   <a href="https://github.com/sameerj05"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-sameerj05-181717?style=flat-square&logo=github"/></a>
+  <br><br>
+  <b>MohammedYashHossain</b><br>
+  <a href="https://github.com/MohammedYashHossain"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-MohammedYashHossain-181717?style=flat-square&logo=github"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <i>This project was developed as a demonstration of pharmaceutical inventory optimization using Python, Streamlit, ARIMA, Pandas, and NumPy.</i>
+  <i>This project was developed as a demonstration of pharmaceutical inventory optimization using Python, Streamlit, ARIMA, Pandas, and NumPy.<br>
+  Coded by <b>sameerj05</b> and <b>MohammedYashHossain</b> on GitHub.</i>
 </p> 
