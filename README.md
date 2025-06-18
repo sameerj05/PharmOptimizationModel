@@ -152,12 +152,6 @@ For a detailed explanation of the methodology and results, see [Pharmaceutical I
 
 ---
 
-### 🤝 Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for improvements or bug fixes.
-
----
-
 ### 👥 Contributors
 
 <p align="center">
