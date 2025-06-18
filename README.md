@@ -6,8 +6,6 @@
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img alt="ARIMA" src="https://img.shields.io/badge/ARIMA-F3C623?style=for-the-badge"/>
-  <img alt="License" src="https://img.shields.io/badge/License-Unlicensed-lightgrey?style=for-the-badge"/>
-  <img alt="Repository" src="https://img.shields.io/badge/GitHub-sameerj05-181717?style=for-the-badge&logo=github"/>
 </p>
 
 <p align="center">
